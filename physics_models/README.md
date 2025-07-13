@@ -41,6 +41,13 @@ This folder contains original, speculative physics theories developed to explore
 
 ---
 
+### 🚀 6. Harmonic Space Travel Theory (HST)
+> Navigation through spacetime by tuning into harmonic gravitational frequencies — propulsion without inertia.
+
+📄 [`harmonic_space_travel.md`](harmonic_space_travel.md)
+
+---
+
 ## ✨ Intent
 
 These models are not dogma. They are **invitations to think**, to wonder, and to explore the frontiers where consciousness and physics begin to meet.
